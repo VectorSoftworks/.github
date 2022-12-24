@@ -1,3 +1,4 @@
+
 # Vector Softworks
 
 Welcome to Vector Softworks, where the future is stored and created. You might remember us for "Vector," but wait until you see us as the creators of Xylem!
@@ -15,5 +16,6 @@ We are a three-person team:
  - Xylem is a messaging software designed specifically for you.
 
 ### Markdone
--   Introduction to Vector Softworks
-- List of Projects
+
+ - [x] Introduction to Vector Softworks
+ - [x] List of Projects
