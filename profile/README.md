@@ -1,7 +1,7 @@
 
 # Vector Softworks
 
-Welcome to Vector Softworks, where the future is stored and created. You might remember us for "Vector," but wait until you see us as the creators of Xylem!
+Welcome to Vector Softworks, where the future is stored and created. You might remember us for "Vector," but wait until you see us as the creators of vector!
 
 # Operators
 
@@ -13,7 +13,7 @@ We are a three-person team:
 
 # Envisions
 
- - Xylem is a messaging software designed specifically for you.
+ - Vector is a messaging software designed specifically for you.
 
 ### Markdone
 
